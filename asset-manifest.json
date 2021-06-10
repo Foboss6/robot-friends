@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/robot-friends/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/robot-friends/static/js/main.e9106762.chunk.js",
+    "main.js.map": "/robot-friends/static/js/main.e9106762.chunk.js.map",
+    "runtime-main.js": "/robot-friends/static/js/runtime-main.01310cc8.js",
+    "runtime-main.js.map": "/robot-friends/static/js/runtime-main.01310cc8.js.map",
+    "static/js/2.78d6a89c.chunk.js": "/robot-friends/static/js/2.78d6a89c.chunk.js",
+    "static/js/2.78d6a89c.chunk.js.map": "/robot-friends/static/js/2.78d6a89c.chunk.js.map",
+    "static/js/3.4b770daf.chunk.js": "/robot-friends/static/js/3.4b770daf.chunk.js",
+    "static/js/3.4b770daf.chunk.js.map": "/robot-friends/static/js/3.4b770daf.chunk.js.map",
+    "index.html": "/robot-friends/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/robot-friends/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.78d6a89c.chunk.js.LICENSE.txt": "/robot-friends/static/js/2.78d6a89c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/robot-friends/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01310cc8.js",
+    "static/js/2.78d6a89c.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e9106762.chunk.js"
+  ]
+}
