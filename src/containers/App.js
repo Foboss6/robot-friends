@@ -42,7 +42,7 @@ class App extends Component {
         <h1 className='header'>ROBOFRIENDS</h1>
         <SearchBox inputChange={this.onInputChange}/>
         {/* <Button onPress={this.onButtonClick}/> */}
-        <p className='i'>
+        <p className='i numbers'>
           Totoal robots number: {this.state.robots.length}, Found robots number: {filteredRobots.length}.
         </p>
         <Scroll>
